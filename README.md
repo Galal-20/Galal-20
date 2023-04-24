@@ -13,6 +13,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=30&pause=2000&color=F7F7F7&width=500&height=100&lines=I'm+a+Software+Engineer+;Mobile+Application+Developer+" alt="Typing SVG" /></a>
 
 
+## Contacts:
+
+<a href="https://www.linkedin.com/in/galal-ahmed-82a2211b2/?originalSubdomain=eg"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href=""><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+<a href=""><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<!--
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Galal-20&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -32,19 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 -->
-
-
-## Contacts:
-
-<a href="https://www.linkedin.com/in/galal-ahmed-82a2211b2/?originalSubdomain=eg"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href=""><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-<a href=""><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
-<!--
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Galal-20&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
