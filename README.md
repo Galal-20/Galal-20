@@ -1,7 +1,7 @@
 # En.Galal Ahmed
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="1000" height="200"/>
+  <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="1000" height="250"/>
 </p>
 
 <p  align="left">
