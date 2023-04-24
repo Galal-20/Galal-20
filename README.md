@@ -8,10 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=Galal-20&style=flat-square&color=blue" alt="Views"/>
 </p>
 
-<p alien="center">
-  <href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=30&pause=1000&color=F7F7F7&width=350&height=57&lines=I'm+a+Software+Engineer+" alt="Typing SVG" />
-</p>
 
 
 ## Languages & Tools
