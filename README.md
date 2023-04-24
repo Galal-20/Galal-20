@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="700" height="500"/>
-  <img src="https://komarev.com/ghpvc/?username=Galal-20&style=flat-square&color=blue" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Galal-20&style=flat-square&color=blue" center="true" alt="Views"/>
 </div>
 
 <p align="center">
