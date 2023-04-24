@@ -9,6 +9,7 @@
 </p>
 
 
+## About Me:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=30&pause=2000&color=F7F7F7&width=500&height=100&lines=I'm+a+Software+Engineer+;Mobile+Application+Developer+" alt="Typing SVG" /></a>
 
 
@@ -28,6 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat&logo=powershell)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
+
 
 
 <!--
