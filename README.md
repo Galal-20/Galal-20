@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/ lines=I+am+a+Software+Engineer;&font=Fira%20Code&center=true&size=40&width=1000&height=500&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/ lines=I+am+a+Software+Engineer;&font=Fira%20Code&center=true&size=30&width=1000&height=1000&duration=4000&pause=1000">
 </p>
 
 
