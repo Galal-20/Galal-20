@@ -1,7 +1,7 @@
 # En.Galal Ahmed
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcxYWVhODQyY2U4ODEwM2NlZDNlOTUzODIxMTg5MzE2MTg1Y2MyOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/llarwdtFqG63IlqUR1/giphy.gif" width="600" height="300"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Galal-20&style=flat-square&color=blue" alt="Views"/>
 
