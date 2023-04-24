@@ -1,7 +1,7 @@
 # En.Galal Ahmed
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineer;&font=Fira%20Code&center=true&size=40&width=700&height=150&duration=5000&pause=500">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineer;&font=Fira%20Code&center=true&size=40&width=700&height=150&duration=5000&pause=1000">
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Galal-20&style=flat-square&color=blue" alt="Views"/>
