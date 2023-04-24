@@ -9,6 +9,9 @@
 </p>
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=30&pause=2000&color=F7F7F7&width=500&height=100&lines=I'm+a+Software+Engineer+;Mobile+Application+Developer+" alt="Typing SVG" /></a>
+
+
 
 ## Languages & Tools
 
