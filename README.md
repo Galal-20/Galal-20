@@ -36,8 +36,7 @@
 
 ## Contacts:
 
-https://github-readme-streak-stats.herokuapp.com/?user=Galal-20
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Galal-20&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 
 Here are some ideas to get you started:
