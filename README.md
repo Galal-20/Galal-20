@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineer;&font=Fira%20Code&center=true&size=40&width=700&height=300&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineer;&font=Fira%20Code&center=true&size=40&width=900&height=300&duration=4000&pause=1000">
 </p>
 
 
