@@ -1,7 +1,14 @@
-### Hi there 👋
+# En.Galal Ahmed
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineer;&font=Fira%20Code&center=true&size=40&width=700&height=150&duration=5000&pause=500">
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Galal-20&style=flat-square&color=blue" alt="Views"/>
+
+
 
 <!--
-**Galal-20/Galal-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
