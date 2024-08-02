@@ -12,7 +12,6 @@
 ## About Me:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poltawski+Nowy&weight=700&size=30&pause=1000&color=F7F7F7&width=500&height=200&lines=I'm+a+Software+Engineer+;Mobile+Application+Developer+" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Android+Native+using+Java+%26+kotlin;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
 
 
 ## Contacts:
